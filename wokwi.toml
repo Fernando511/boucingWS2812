@@ -1,4 +1,4 @@
 [wokwi]
 version = 1
-firmware = 'build/bouncing_LED.uf2'
-elf = 'build/bouncing_LED.elf'
+firmware = 'build/pio_matrix.uf2'
+elf = 'build/pio_matrix.elf'

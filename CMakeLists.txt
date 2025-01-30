@@ -53,7 +53,8 @@ target_link_libraries(pio_matrix PRIVATE
         pico_stdlib
         hardware_pio
 	    hardware_adc
-        pico_bootrom)
+        pico_bootrom
+        hardware_timer)
 
 # Add the standard include files to the build
 target_include_directories(pio_matrix PRIVATE
